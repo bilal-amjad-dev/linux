@@ -1,7 +1,6 @@
 
 08-January-2026
 
-Here’s a polished version of your notes, Bilal 👌 — clear, structured, and beginner‑friendly:
 
 ---
 
@@ -49,6 +48,4 @@ sed 's/unix/linux/g' geekfile.txt
 
 ---
 
-✨ This way your notes show both the **syntax** and a **practical example**.  
 
-Would you like me to extend this into a **mini cheat sheet** (basic → global → in‑place editing with `-i`) so you have all common `sed` use cases in one place?
